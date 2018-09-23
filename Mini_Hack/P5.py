@@ -1,5 +1,6 @@
 from random import randint
 
+print ("Hello players!!! Do you want to check your mathematical level :V Let's play!")
 while True:
     x = randint (0, 20)
     y = randint (0, 20)
