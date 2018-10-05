@@ -1,4 +1,4 @@
-# #1
+ #1
 print("#1")
 print("Here your list of numbers: ")
 ds = [1, 6, -23, 65, 2]
